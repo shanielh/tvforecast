@@ -1,0 +1,3 @@
+[submodule "src/request"]
+	path = src/request
+	url = https://github.com/mikeal/request.git
