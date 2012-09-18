@@ -10,7 +10,7 @@ From console
     
 Or within a script 
 
-    var tvforecast = require("./ext/tvforecast/main");
+    var tvforecast = require("./ext/tvforecast/src/main");
     
     // Will write "Covert Affairs" information to log
     tvforecast("Covert Affairs", null, console.log);    
